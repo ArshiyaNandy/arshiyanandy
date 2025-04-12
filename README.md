@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arshiya Nandy</h1>
-<h3 align="center">A passionate developer from Kolkata, India 🇮🇳</h3>
+<h3 align="center">A passionate frontend developer,ML enthusiast from Kolkata</h3>
 
-- 🔭 I’m currently working on **AI Medical Assistant & Full-stack Projects**
-- 🌱 I’m learning **Next.js, AI tools, and DevOps**
-- 👩‍💻 All of my projects are available at [my GitHub](https://github.com/arshiyanandy)
-- 📫 How to reach me: **your-email@example.com**
+- 🔭 I’m currently working on **AI and Machine Learning Projects**
+- 🌱 I’m learning **Next.js, AI tools, and WebDev**
+- 👩‍💻 All of my projects are available at [https://github.com/arshiyanandy]
+- 📫 How to reach me: **arshiyanandy1731@gmail.com**
 
 ---
 
@@ -13,6 +13,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -32,6 +34,12 @@
 ### 🌟 Contributions Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arshiyanandy&theme=dracula)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=arshiyanandy&theme=radical&column=7&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
